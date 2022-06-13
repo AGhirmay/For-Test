@@ -489,6 +489,11 @@
 					"id": "17164e36-cadb-432e-b373-d22641eba319"
 				},
 				{
+					"name": "Sample 2",
+					"item": [],
+					"id": "d9847ec7-5375-42a6-a1cc-693ea7e5b070"
+				},
+				{
 					"name": "LoginHappypath",
 					"event": [
 						{
